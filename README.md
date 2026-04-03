@@ -7,12 +7,12 @@
 ## 팀 구성
 |              Backend(조장)               |              Backend(팀원)               |             Frontend(팀원)             |              Frontend(팀원)               |
 | :---------------------------------------: | :---------------------------------------: | :------------------------------------: | :---------------------------------------: |
-| ![](https://github.com/minjae-083.png)  | ![](https://github.com/SSGDO.png)  | ![](https://github.com/qivvoon.png)  | ![](https://github.com/study-raccoon.png)  |
-| [변민재](https://github.com/minjae-083) | [김현경](https://github.com/SSGDO) | [김민승](https://github.com/qivvoon) | [배준성](https://github.com/study-raccoon) |
+| ![](https://github.com/minjae-083.png)  | ![](https://github.com/SSGDO.png)  | ![](https://github.com/kms1357good-hub.png)  | ![](https://github.com/study-raccoon.png)  |
+| [변민재](https://github.com/minjae-083) | [김현경](https://github.com/SSGDO) | [김민승](https://github.com/kms1357good-hub) | [배준성](https://github.com/study-raccoon) |
 
 ---
 
-## 목차
+## 📚 목차
 - [프로젝트 개요](#-프로젝트-개요)
    - [제안 내용](#-제안-내용)
    - [제안 배경](#-제안-배경)
