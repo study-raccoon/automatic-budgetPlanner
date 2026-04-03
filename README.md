@@ -7,13 +7,13 @@
 ## 팀 구성
 |              Backend(조장)               |              Backend(팀원)               |             Frontend(팀원)             |              Frontend(팀원)               |
 | :---------------------------------------: | :---------------------------------------: | :------------------------------------: | :---------------------------------------: |
-| ![](https://github.com/minjae-083.png)  | ![](https://github.com/SSGDO.png)  | ![](https://github.com/kms1357good-hub.png)  | ![](https://github.com/study-raccoon.png)  |
-| [변민재](https://github.com/minjae-083) | [김현경](https://github.com/SSGDO) | [김민승](https://github.com/kms1357good-hub) | [배준성](https://github.com/study-raccoon) |
+| ![](https://github.com/minjae-083.png)  | ![](https://github.com/SSGDO.png)  | ![](https://github.com/kms13579good-hub.png)  | ![](https://github.com/study-raccoon.png)  |
+| [변민재](https://github.com/minjae-083) | [김현경](https://github.com/SSGDO) | [김민승](https://github.com/kms13579good-hub) | [배준성](https://github.com/study-raccoon) |
 
 ---
 
 ## 📚 목차
-- [프로젝트 개요](#-프로젝트-개요)
+- [📋 프로젝트 개요](#-프로젝트-개요)
    - [제안 내용](#-제안-내용)
    - [제안 배경](#-제안-배경)
    - [기대 효과](#-기대-효과)
@@ -27,13 +27,20 @@
    - [역할 분담](#-역할-분담)
    - [예상 위험 요인 및 대책](#-예상-위험-요인-및-대책)
    - [성공 여부 판별 기준](#-성공-여부-판별-기준)
-- [용어 설명 및 참고 문헌](#-프로젝트-개요)
+- [📄 용어 설명 및 참고 문헌](#-프로젝트-개요)
    - [용어 설명](#-제안-내용)
    - [참고 문헌 및 자료](#-제안-배경)
  
 ---
 
-## 개요
+## 📋 프로젝트 개요
+ ### 제안 내용
+ > 본 프로젝트는 영수증 이미지에서 자동으로 지출 항목을 인식하고, 이를 기반으로 가계부를 자동으로 생성 및 관리해주는 웹 애플리케이션을 개발하는 것을 목표로 합니다.
+
+---
+
+###
+ 
  ### 문제 인식
   자금 관리의 핵심이라고 할 수 있는 가계부를 작성하지 않는 대다수의 경우, 소비 내역을 일일이 작성하는 것의 번거로움 때문이라고 판단하였습니다.
 
