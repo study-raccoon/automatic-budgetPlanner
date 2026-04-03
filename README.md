@@ -1,7 +1,12 @@
-# 자동 가계부 생성기
- 영수증 사진에서 물품, 날짜, 금액을 자동 추출하고, 카테고리 별로 분류하여 대시보드로 시각화하는 웹 애플리케이션입니다.
+# BillGets (빌겟츠)
+> **"빌 게이츠처럼 자신의 자산관리를 꼼꼼히 하고 싶어하는 사람들을 위한 웹"** <br />
+> 영수증을 올리기만 하면, 기록부터 분류까지 간편하게 할 수 있는 웹 애플리케이션
 
-## 팀 소개 김민승, 김현영, 배준성, 변민재
+## 팀 구성
+|              Backend(조장)               |              Backend(팀원)               |             Backend(팀원)             |              Backend(팀원)               |
+| :---------------------------------------: | :---------------------------------------: | :------------------------------------: | :---------------------------------------: |
+| ![](https://github.com/samuel426.png)  | ![](https://github.com/Hyeseung-OH.png)  | ![](https://github.com/qivvoon.png)  | ![](https://github.com/Plectranthus.png)  |
+| [변민재](https://github.com/samuel426) | [김현경](https://github.com/Hyeseung-OH) | [김민승](https://github.com/qivvoon) | [배준성](https://github.com/Plectranthus) |
 
 | 김민승 | 김현영 | 배준성 | 변민재 |
 | --- | --- | --- | ---|
