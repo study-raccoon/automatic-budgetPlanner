@@ -76,11 +76,48 @@
 ### 부가 기능
 > BillGets는 사용자의 편의성을 위해 다음과 같은 기능 확장을 준비 및 고려하고 있습니다.
 
-|         기대 효과       |           내용        |
+|         기능명       |           내용        |
 | :--------------------:  | :--------------------: |
-|편의성 향상             | 영수증 촬용 혹은 이미지 업로드만으로 가계부 자동 작성, 입력 시간 절감 |
-|지속성 향상             | 자동화로 인한 가계부 작성·관리 습관 형성 용이 |
-|데이터 활용             | 월별·카테고리별 소비 패턴 시각화 및 분석 제공 |
+|카드 내역 조회            | 주요 카드사 1~2곳의 CSV 파일 업로드를 지원하며, 카드 지출과 현금 지출을 통합 관리할 수 있게 됩니다. |
+|AI ChatBot 도입           | 페이지의 우측 하단에 AI ChatBot을 배치하여, 간단한 질문 및 서치에 대한 조언을 받을 수 있습니다. |
+|비회원 로그인             | 회원가입을 하지 않고 바로 기능을 사용하고 싶은 사용자들을 위한 기능입니다. |
+
+---
+
+ ### 웹페이지 구성(정보 구조)
+ **1. 메인 페이지**
+ <p align="center"> <img width="1389" height="621" alt="Image" src="https://github.com/user-attachments/assets/5ed3f1cd-7346-4998-860c-0481b090cb6a" /> </p>
+
+ - 로그인
+ - 지출 캘린더
+ - 영수증 업로드
+ - 이번 달 지출 현황
+ - 최근 지출 내역
+
+**2. 영수증 등록**
+<p align="center"> <img width="1418" height="617" alt="Image" src="https://github.com/user-attachments/assets/c9168161-5ac1-461b-b666-6137f317456e" /> </p>
+
+- 파일에서 업로드
+- 카메라로 촬영
+
+**3. 지출 내역**
+<p align="center"> <img width="1389" height="621" alt="Image" src="https://github.com/user-attachments/assets/b6ff4afd-0fda-4d04-b20a-1a4363d6fe08" /> </p>
+
+- 검색 기능
+- 총 건수·지출·수입
+- 내역 목록
+
+**4. 분석 & 통계**
+<p align="center"> <img width="1389" height="621" alt="Image" src="https://github.com/user-attachments/assets/a8e80b1d-7312-4e07-b2f0-d72951c4bc60" /> </p>
+
+- 수입 및 지출 분석
+- 월별 추이 · 요일별 분석 · 전월 비교 · 예산 관리
+
+**5. 나만의 파일**
+<p align="center"> <img width="1389" height="621" alt="Image" src="https://github.com/user-attachments/assets/44aab7a7-8877-47af-a4f7-f58d6e7fa81b" /> </p>
+
+- 파일 추가 및 내역 선택·수정
+- 파일 내보내기(Excel)
  
  ### 문제 인식
   자금 관리의 핵심이라고 할 수 있는 가계부를 작성하지 않는 대다수의 경우, 소비 내역을 일일이 작성하는 것의 번거로움 때문이라고 판단하였습니다.
