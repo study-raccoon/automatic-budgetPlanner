@@ -1,14 +1,14 @@
-# BillGets (빌겟츠)
+# 🧾 BillGets (빌겟츠)
 > **"빌 게이츠처럼 자신의 자산관리를 꼼꼼히 하고 싶어하는 사람들을 위한 웹"** <br />
 > 영수증을 올리기만 하면, 기록부터 분류까지 간편하게 할 수 있는 웹 애플리케이션
 
 ---
 
-## 팀 구성
+## 🙋‍♂️ 팀 구성
 |              Backend(조장)               |              Backend(팀원)               |             Frontend(팀원)             |              Frontend(팀원)               |
 | :---------------------------------------: | :---------------------------------------: | :------------------------------------: | :---------------------------------------: |
 | ![](https://github.com/minjae-083.png)  | ![](https://github.com/SSGDO.png)  | ![](https://github.com/kms13579good-hub.png)  | ![](https://github.com/study-raccoon.png)  |
-| [변민재](https://github.com/minjae-083) | [김현경](https://github.com/SSGDO) | [김민승](https://github.com/kms13579good-hub) | [배준성](https://github.com/study-raccoon) |
+| [변민재](https://github.com/minjae-083) | [김현영](https://github.com/SSGDO) | [김민승](https://github.com/kms13579good-hub) | [배준성](https://github.com/study-raccoon) |
 
 ---
 
@@ -131,7 +131,7 @@
  **배경**
  >김현영(23세, 대학생)씨는 월세 납부를 위해 지출 관리를 해야 하지만, 매번 가계부 쓰는게 귀찮아서 늘 작심삼일로 끝났다. 현금도 자주 쓰는 편이라 카드 앱만으로는 지출 파악이 어렵다.
 
-**1. 첫 방문 및 회원가입**
+**1. 첫 방문 및 회원가입** <br />
 현영이는 친구의 추천으로 BillGets에 처음 접속한다.
  - 메인 페이지에서 '로그인' 버튼을 클릭해 이메일과 비밀번호를 입력하고 계정을 생성한다.
  - 로그인 후 메인 페이지로 이동한다.
